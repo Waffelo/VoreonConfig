@@ -1,3 +1,4 @@
 [submodule "klipper"]
 	path = klipper
-	url = file:///home/waffelo/printer_data/config
+	url = https://github.com/Waffelo/VoreonConfig.git
+    branch = main  # Optional, set to the default branch
