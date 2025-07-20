@@ -1,4 +1,4 @@
 [submodule "klipper"]
 	path = klipper
-	url = https://github.com/Waffelo/VoreonConfig.git
+	url = https://github.com/Waffelo/VoreonConfig
     branch = main  # Optional, set to the default branch
